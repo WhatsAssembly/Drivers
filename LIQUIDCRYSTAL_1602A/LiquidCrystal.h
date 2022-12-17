@@ -6,7 +6,7 @@
 //			Commands
 //
 /****************************/
-#define CLEAR_DISPALY 			    0x01 //			Clear Display
+#define CLEAR_DISPALY 			 	  0x01 //			Clear Display
 #define RETURN_HOME 				    0x02 //			RETURN HOME
 #define ENTRYMODESET 				    0x04 //			ENTRY MODE SET
 #define CURSOR_SHIFT 				    0x10 //			CURSOR || DISPLAY SHIFT
